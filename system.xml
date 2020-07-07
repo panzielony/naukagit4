@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<System>
+	<Admins>
+		<User>Czarek</User>
+	</Admins>
+	<Moderators>
+		<User>Paweł</User>
+	</Moderators>
+	<Users>
+		<User>Kamil</User>
+		<User>Spanek</User>
+	</Users>
+	<Colors>
+		<Reds>
+			<Value>#c36c6c</Value>
+			<Value>#98C36C</Value>
+			<Value>#6CC3C3</Value>
+		</Reds>
+		<Blues>
+			<Value>#48669c</Value>
+		</Blues>
+	</Colors>
+	<Money>
+		<Value>EUR</Value>
+	</Money>
+	<DecimalFormat>
+		<Value>,</Value>
+		<Value>.</Value>
+	</DecimalFormat>
+</System>
