@@ -21,10 +21,11 @@
 		</Blues>
 	</Colors>
 	<Money>
-        <Value>PLN</Value>
+
 	</Money>
 	<DecimalFormat>
 		<Value>,</Value>
 		<Value>.</Value>
 	</DecimalFormat>
 </System>
+
